@@ -28,3 +28,4 @@ Documentación oficial NIST
 4. **SaaS(Software como servicio)** ~ Delivery -> todo lo hace el proveedor; tu solo disfrutas.
 
 ![PizaaaS](https://github.com/jhonPariona/Aws/blob/main/assets/Screenshot_20210703_115244.png?raw=true)
+![swaas](https://github.com/jhonPariona/Aws/blob/main/assets/sw.png?raw=true)

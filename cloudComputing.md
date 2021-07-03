@@ -23,9 +23,9 @@ Documentación oficial NIST
 ## Modelos de servicio en la nube ~ Pizza como servicio
 
 1. **Tradicional** ~ Pizza Hecho en casa -> te encargas de todo *NO es considerado como un modelo pero es la base de todo*, te haces responsable del local(espacio, electricidad, ...)
-2. **IaaS(Infraestructura como servicio)** ~ Cocina como servicio -> el proveedor se encarga de cocina, gas, horno, electricidad; los ingredientes, hacer la base y el hacer la pizza nosotros nos encargamos.
-3. **PaaS(Plataforma como servicio)** ~ Recoger y hornear -> el proveedor hace la infraestructura y la base de la pizza; nosotros solo horneamos.
-4. **SaaS(Software como servicio)** ~ Delivery -> todo lo hace el proveedor; tu solo disfrutas.
+2. **IaaS(Infraestructura como servicio)** ~ Cocina como servicio -> el proveedor se encarga de cocina, gas, horno, electricidad; los ingredientes, hacer la base y el hacer la pizza nosotros nos encargamos. *Hospedar*
+3. **PaaS(Plataforma como servicio)** ~ Recoger y hornear -> el proveedor hace la infraestructura y la base de la pizza; nosotros solo horneamos. *CONSTRUIR*
+4. **SaaS(Software como servicio)** ~ Delivery -> todo lo hace el proveedor; tu solo disfrutas. *CONSUMIR*
 
 ![PizaaaS](https://github.com/jhonPariona/Aws/blob/main/assets/Screenshot_20210703_115244.png?raw=true)
 ![swaas](https://github.com/jhonPariona/Aws/blob/main/assets/sw.png?raw=true)

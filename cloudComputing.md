@@ -26,3 +26,5 @@ Documentación oficial NIST
 2. **IaaS(Infraestructura como servicio)** ~ Cocina como servicio -> el proveedor se encarga de cocina, gas, horno, electricidad; los ingredientes, hacer la base y el hacer la pizza nosotros nos encargamos.
 3. **PaaS(Plataforma como servicio)** ~ Recoger y hornear -> el proveedor hace la infraestructura y la base de la pizza; nosotros solo horneamos.
 4. **SaaS(Software como servicio)** ~ Delivery -> todo lo hace el proveedor; tu solo disfrutas.
+
+![PizaaaS](https://github.com/jhonPariona/Aws/blob/main/assets/Screenshot_20210703_115244.png?raw=true)

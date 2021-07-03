@@ -29,3 +29,24 @@ Documentación oficial NIST
 
 ![PizaaaS](https://github.com/jhonPariona/Aws/blob/main/assets/Screenshot_20210703_115244.png?raw=true)
 ![swaas](https://github.com/jhonPariona/Aws/blob/main/assets/sw.png?raw=true)
+
+## ESCALABILIDAD VS ELASTICIDAD
+
+- **Escalabilidad** Aumentar instancias -> capacidad de computo(vertical) solo crecer
+- **Elasticidad** puede crecer y reducirse -> crecimiento de recursos segun demanda(Horizontal)
+
+
+## Disponibilidad y tolerancia a fallos
+
+- **Disponibilidad** Tiempo de actividad(UP TIME) en un periodo, Tiempo inactividad(DOWN TIME), HA(alta disponibilidad)
+- **Tolerancia a fallos** conmutacion por erro(tener un servidor secundario al q sera redirigido si el servidor principal se cae)
+
+
+## [Recuperacion ante desastres](https://www.youtube.com/watch?v=qJJXB8KBWdI)
+
+Parte de un plan de continuidad de negocios(general comprende todos las areas de la organizacion), una parte es plan de recuperación ante desastres(RPD) es mas enfocado a IT y su partes son:
+
+- **RPO(recovery point object)**: Punto de recuperacion -> cantidad de info q se tiene permitido perder y que no afecte al negocio(backups).
+- **RTO(recovery time object)**: Punto de recuperacion -> cantidad de tiempo en que se deberia solucionar el problema y no afecte al negocio.
+
+

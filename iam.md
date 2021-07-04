@@ -8,3 +8,6 @@
 ## Account setings
 
 - Politicas de administración
+
+# POLICY
+

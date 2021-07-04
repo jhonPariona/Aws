@@ -11,3 +11,4 @@
 
 # POLICY
 
+![Policy](assets/policy.png)
